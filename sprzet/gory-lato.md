@@ -24,10 +24,12 @@ na siebie, blisko ciała
 * skarpetki (tyle co bielizny + 1 na powrót)
 * bluzki termalne (stop bawełnie!) (nie za dużo + 1 na powrót), ew t-shirty dodatkowo
 * stuptuty
-* kurtka zimowa, przeciwdeszczowa, polar (jako zapas)
+* softshell + przeciwdeszczowa
+* jeśli możliwe niskie temperatury:
+	* kurtka zimowa, przeciwdeszczowa, polar (jako zapas)
+	* czapka, rękawiczki
 * buffa letnia, zimowa
 * buty
-* czapka, rękawiczki (x2)
 * higiena osobista (żel do mycia rąk, coś pod ew prysznic, itd)
 
 sprzęt
