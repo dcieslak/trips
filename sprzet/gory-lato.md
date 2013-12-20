@@ -25,6 +25,7 @@ na siebie, blisko ciała
 * bluzki termalne (stop bawełnie!) (nie za dużo + 1 na powrót), ew t-shirty dodatkowo
 * stuptuty
 * softshell + przeciwdeszczowa
+* spodnie nieprzemakalne (długie?) + zapas
 * jeśli możliwe niskie temperatury:
 	* kurtka zimowa, przeciwdeszczowa, polar (jako zapas)
 	* czapka, rękawiczki

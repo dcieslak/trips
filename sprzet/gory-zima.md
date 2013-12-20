@@ -25,6 +25,8 @@ na siebie, blisko ciała
 * bluzki termalne (stop bawełnie!) (nie za dużo + 1 na powrót), ew t-shirty dodatkowo
 * stuptuty
 * kurtka zimowa, przeciwdeszczowa, polar (jako zapas)
+* spodnie nieprzemakalne (+ zapas)
+* kalesony / inne ciepłe pod spodnie (+ zapas)
 * buffa letnia, zimowa
 * buty
 * czapka, rękawiczki (x2)
