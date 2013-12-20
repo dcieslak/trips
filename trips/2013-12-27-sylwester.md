@@ -21,8 +21,13 @@ trasa
 start: **28/12/2013**, po dotarciu do Ustrzyk Górnych
 trasa:
 * ustrzyki górne
-* szlak czerwony na północny zachód
-* szlak zielony na północy wschód
+* wersja krótka
+	* szlak czerwony na północny zachód
+	* szlak zielony na północy wschód
+* wersja dłuższa
+	* szlak niebieski na zachód do Wielkiej Rawki
+	* szlak żółty na północ
+	* szlak zielony na północny wschód, daleko daleko
 * schronisko Koliba - nocleg
 
 start: **29/12/2013**, rano
