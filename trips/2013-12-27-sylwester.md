@@ -73,3 +73,5 @@ will be soon :)
 inne uwagi
 ----------
 
+lista sprzętu zgodnie z [listą zimową](/mplonski/trips/blob/master/sprzet/gory-zima.md)
+
