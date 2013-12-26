@@ -43,7 +43,7 @@ sprzęt
 * apteczka
 * okulary przeciwsłoneczne
 * kuchenka gazowa + gaz i/lub świeczki + zapalniczki
-* menażka, łyżka, gąbka do mycia naczyń
+* menażka, kubek, łyżka, gąbka do mycia naczyń
 * latarka x2 (zapasowe baterie)
 * siekiera (czasem)
 * worki na śmieci
