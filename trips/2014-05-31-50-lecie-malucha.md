@@ -3,9 +3,6 @@ Trasa KTE "Styki" na 50-lecie AKT Maluch
 
 trasa KTE "Styki" na 50-lecie AKT Maluch (wyjazd w jedną stronę)
 
-plakat
-------
-
 ![plakat rajdu](2014-05-31-50-lecie-malucha.jpg)
 
 podstawowe informacje
