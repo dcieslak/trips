@@ -40,7 +40,6 @@ wariant jedyny i słuszny:
 * przejście kawałka drogą
 * przejście kawałka lasem, polem, przecinką, ale na pewno nie szlakiem, bo nie ma
 * ogólnie to trasa jest spokojna, zależna od warunków na miejscu, więc nie wiadomo do końca którędy
-* no, i zależy trochę od humoru kierownika, ale ludzie raczej są u niego zadowoleni.
 * ogólnie powinna być spoko, jak zawsze, jeszcze nikt nie narzekał na kierownika.
 
 **długość**: około 20km, podejścia pomijalne, tempo spokojne, trasa raczej nie dla dzieci :-)
