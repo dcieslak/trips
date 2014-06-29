@@ -91,4 +91,5 @@ wyposażenie do chałupy
 * miło jeśli przyniesiesz trochę świeczek :-) (białych długich, nie tilajty)
 * coś do higieny osobistej
 * ubranie na każdą porę - nocą piec jest wygaszany
+* instrumenty muzyczne, śpiewniki… i wszystko inne potrzebne człowiekowi do życia.
 
