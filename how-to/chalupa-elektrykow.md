@@ -51,7 +51,7 @@ ważne warunki pobytu
 --------------------
 
 * nie ma prądu :-) (wifi też nie ma - było o to dużo pytań)
-* nocleg jest darmowy, wymagana jest jednak pomoc przy pracach na rzecz chałupy
+* nocleg jest darmowy, wymagana jest jednak pomoc przy pracach na rzecz chałupy - miło jeśli zostawisz datek w skarbonce - utrzymanie takiej chaty też kosztuje
 * obowiązuje całkowity zakaz spożywania alkoholu w środku chałupy (na zewnątrz można)
 	* osoby w stanie zagrażającym bezpieczeństwu chałupy (czyt. strasznie najebane) mogą zostać wyrzucone, ale to trzeba naprawdę się postarać…
 * obowiązuje całkowity zakaz palenia ognia poza wyznaczonymi miejscami
