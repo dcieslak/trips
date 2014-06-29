@@ -33,7 +33,7 @@ dojście do chałupy
 
 * przy dojeździe do Woli Niżnej
 	* przejście w stronę wschodnią za miejscowość, a następnie:
-		* trasa przez Biskupi Łan - należy skręcić w drogę na północ na "górkę" między końcem miejscowości a Beskidzką Trasą Kurierską JAKA-KORA i następnie kierować się po drodze trzymając się prawej strony - warto mieć mapę, jak dojdziemy do drogi utwardzonej to sprawdzamy mapę i wiemy co dalej (teoretycznie wystarczy skręcić w prawo i dojdziemy do skrzyżowania z Beskidzką Trasą Kurierską JAGA-KORA).
+		* trasa przez Biskupi Łan - należy skręcić w drogę na północ na "górkę" między końcem miejscowości a Beskidzką Trasą Kurierską JAGA-KORA i następnie kierować się po drodze trzymając się prawej strony - warto mieć mapę, jak dojdziemy do drogi utwardzonej to sprawdzamy mapę i wiemy co dalej (teoretycznie wystarczy skręcić w prawo i dojdziemy do skrzyżowania z Beskidzką Trasą Kurierską JAGA-KORA).
 		* trasa szlakiem kurierskim - idziemy w kierunku wschodnim aż trafimy na granicę kultur leśnych / informację o Beskidzkiej Trasie Kurierskiej JAGA-KORA. idziemy drogą na północ ile się da, a jak trafimy na skrzyżowanie (tuż za przejściem nad Potokiem Surowicznym) skręcamy w prawo (na wschód) i idziemy aż dojdziemy do Chałupy Elektryków, będzie widoczna po północnej stronie drogi.
 * przy dojeździe do Rymanowa Zdroju
 	* wysiadamy na przystanku Rymanów Zdrój Góra, jeśli nie uda się tego dokonać to idziemy na południe aż dojdziemy do mostu na rzece Tabor - za nim należy skręcić w lewo i trzymać się czerwonego szlaku i Beskidzkiej Trasy Kurierskiej JAGA-KORA
