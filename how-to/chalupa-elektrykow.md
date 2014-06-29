@@ -42,8 +42,8 @@ dojście do chałupy
 * trasa z Puław Dolnych / Górnych
 	* dostajemy się do Puław Dolnych
 	* spacerujemy na południe aż dojdziemy do miejsca na wysokości Wernejówki - wtedy należy przekroczyć Wisłok
-	* przechodzimy przed zabudowaniami i kierujemy się dalej w kierunku południowym - należy uważać na wysokie trawy - spokojnie do 2m wysokości
-	* idziemy cały czas na południe w kierunku Wisłoka - tuż przed nim będzie droga, na niej skręcamy w lewo
+	* przechodzimy przed zabudowaniami i kierujemy się dalej w kierunku południowym - należy uważać na wysokie trawy - spokojnie do 2m wysokości - jeśli na nie trafimy to znaczy, że są takie na całej długości drogi i należy sukcesywnie je ugniatać, aż dostaniemy się do drogi
+	* idziemy cały czas na południe w kierunku Wisłoka - tuż przed nim będzie droga (opisana wyżej), na niej skręcamy w lewo (idąc nią Wisłok będzie po prawej stronie)
 	* przekraczamy Wisłok, idziemy cały czas prosto aż dochodzimy do Potoku Surowicznego, wtedy skręcamy na zachód
 	* idziemy cały czas prosto aż do Chałupy, będzie widoczna po północnej stronie drogi
 
