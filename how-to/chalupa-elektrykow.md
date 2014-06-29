@@ -31,19 +31,18 @@ powrót z chałupy
 dojście do chałupy
 ------------------
 
-* przy dojeździe do Woli Niżnej
-	* przejście w stronę wschodnią za miejscowość, a następnie:
-		* trasa przez Biskupi Łan
-			* jak się skończą zabudowania w Woli Niżnej to po lewej stronie drogi (na północ) mamy drogę polną (słabo widoczną - jest w krzakach), jest to jednak pierwsza droga w lewo poza miejscowością - na tej drodze leżą charakterystyczne płyty betonowe „gofry” (powiwnny…)
-			* skręcamy w opisaną drogę i idziemy pod górę
-			* na górze droga idzie płasko przez łąkę - trafiliśmy wtedy na Biskupi Łan
-			* jeśli droga będzie się rozgałęziać, to zawsze trzymamy się prawej strony
-			* jak dojdziemy do Potoku Surowicznego (już po zejściu) to dalej idziemy prosto drogą mijając po prawej stronie nową drogę leśną (Beskidzką Trasę Kurierską JAGA-KORA) - my idziemy cały czas wzdłuż Potoku Surowicznego
-			* chałupa będzie widoczna po północnej stronie drogi
-		* trasa szlakiem kurierskim
-			* idziemy w kierunku wschodnim aż trafimy na granicę kultur leśnych / informację o Beskidzkiej Trasie Kurierskiej JAGA-KORA oraz parking
-			* idziemy powyższą drogą na północ ile się da, a jak trafimy na skrzyżowanie (tuż za przejściem nad Potokiem Surowicznym) skręcamy w prawo (na wschód)
-			* idziemy aż dojdziemy do Chałupy Elektryków, będzie widoczna po północnej stronie drogi
+* przy dojeździe do Woli Niżnej - przejście w stronę wschodnią za miejscowość, a następnie:
+	* trasa przez Biskupi Łan
+		* jak się skończą zabudowania w Woli Niżnej to po lewej stronie drogi (na północ) mamy drogę polną (słabo widoczną - jest w krzakach), jest to jednak pierwsza droga w lewo poza miejscowością - na tej drodze leżą charakterystyczne płyty betonowe „gofry” (powiwnny…)
+		* skręcamy w opisaną drogę i idziemy pod górę
+		* na górze droga idzie płasko przez łąkę - trafiliśmy wtedy na Biskupi Łan
+		* jeśli droga będzie się rozgałęziać, to zawsze trzymamy się prawej strony
+		* jak dojdziemy do Potoku Surowicznego (już po zejściu) to dalej idziemy prosto drogą mijając po prawej stronie nową drogę leśną (Beskidzką Trasę Kurierską JAGA-KORA) - my idziemy cały czas wzdłuż Potoku Surowicznego
+		* chałupa będzie widoczna po północnej stronie drogi
+	* trasa szlakiem kurierskim
+		* idziemy w kierunku wschodnim aż trafimy na granicę kultur leśnych / informację o Beskidzkiej Trasie Kurierskiej JAGA-KORA oraz parking
+		* idziemy powyższą drogą na północ ile się da, a jak trafimy na skrzyżowanie (tuż za przejściem nad Potokiem Surowicznym) skręcamy w prawo (na wschód)
+		* idziemy aż dojdziemy do Chałupy Elektryków, będzie widoczna po północnej stronie drogi
 * przy dojeździe do Rymanowa Zdroju
 	* wysiadamy na przystanku Rymanów Zdrój Góra, jeśli nie uda się tego dokonać to idziemy na południe aż dojdziemy do mostu na rzece Tabor - za nim należy skręcić w lewo i trzymać się czerwonego szlaku i Beskidzkiej Trasy Kurierskiej JAGA-KORA
 	* po pewnym czasie będzie rozgałęzienie na czerwony szlak w lewo (południowy-wschód) i także czerwoną Beskidzką Trasę Kurierską JAGA-KORA na południe - idziemy tym ostatnim cały czas prosto, aż dojdziemy do Chałupy Elektryków
