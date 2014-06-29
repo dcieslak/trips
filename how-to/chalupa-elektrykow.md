@@ -7,6 +7,8 @@ podstawowe informacje
 * lokalizacja
 	* Polany Surowiczne, Beskid Niski
 	* N 49st 27'03.6'', E 21st 52'49.6''
+* godziny otwarcia
+	* dostępne są na [stronie klubu](http://styki.ee.pw.edu.pl/) - chałupa jest zazwyczaj otwarta w wakacje, długie weekendy, na sylwestra i inne
 * właściciel
 	* KTE Styki
 
