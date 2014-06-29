@@ -28,8 +28,8 @@ powrót z chałupy
 
 * tak samo jak dojazd, ale na odwrót
 
-dojście do chałupy
-------------------
+dojście do chałupy - trasy piesze
+---------------------------------
 
 * przy dojeździe do **Woli Niżnej** - przejście w stronę wschodnią za miejscowość, a następnie:
 	* trasa przez **Biskupi Łan**
@@ -43,7 +43,7 @@ dojście do chałupy
 		* idziemy w kierunku wschodnim aż trafimy na granicę kultur leśnych / informację o Beskidzkiej Trasie Kurierskiej JAGA-KORA oraz parking
 		* idziemy powyższą drogą na północ ile się da, a jak trafimy na skrzyżowanie (tuż za przejściem nad Potokiem Surowicznym) skręcamy w prawo (na wschód)
 		* idziemy aż dojdziemy do Chałupy Elektryków, będzie widoczna po północnej stronie drogi
-* przy dojeździe do **Rymanowa Zdroju**
+* przy dojeździe do **Rymanowa Zdroju** (alternatywnie - dalsze pksy)
 	* wysiadamy na przystanku Rymanów Zdrój Góra, jeśli nie uda się tego dokonać to idziemy na południe aż dojdziemy do mostu na rzece Tabor - za nim należy skręcić w lewo i trzymać się czerwonego szlaku i Beskidzkiej Trasy Kurierskiej JAGA-KORA
 	* po pewnym czasie będzie rozgałęzienie na czerwony szlak w lewo (południowy-wschód) i także czerwoną Beskidzką Trasę Kurierską JAGA-KORA na południe - idziemy tym ostatnim cały czas prosto, aż dojdziemy do Chałupy Elektryków
 	* według niektórych relacji trasa ta może być kłopotliwa przy słabej orientacji w terenie i warunkach zimowych - latem da się spokojnie iść.
