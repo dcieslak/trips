@@ -61,7 +61,7 @@ ważne warunki pobytu
 --------------------
 
 * **nie ma prądu :-)** (wifi też nie ma - było o to dużo pytań)
-* **nocleg jest darmowy**, wymagana jest jednak pomoc przy pracach na rzecz chałupy - miło jeśli zostawisz datek w skarbonce - utrzymanie takiej chaty też kosztuje
+* **nocleg jest darmowy**, wymagana jest jednak pomoc przy pracach na rzecz chałupy - dobrym zwyczajem jest też zostawienie datku w skarbonce - utrzymanie takiej chaty też kosztuje
 * obowiązuje całkowity **zakaz spożywania alkoholu** w środku chałupy (na zewnątrz można)
 	* osoby w stanie zagrażającym bezpieczeństwu chałupy lub innych osób (czyt. strasznie najebane lub w inny sposób niebezpieczne dla otoczenia) mogą zostać wyrzucone, ale to trzeba naprawdę się postarać…
 * obowiązuje całkowity **zakaz palenia ognia** poza wyznaczonymi miejscami
@@ -71,8 +71,9 @@ ważne warunki pobytu
 warunki sanitarno-jakieśtam
 ----------------------------
 
+* woda znajduje się w studni z żurawiem - zalecane jest przegotowanie przed piciem (jak zawsze), ale można i od razu.
 * **toaleta jest w postaci 2-osobowej sławojki** (na dworze)
-* **„wanna” jest w Potoku Surowicznym** - ciepła woda zależna od pogody (czyt. latem bywa ciepła)
+* **„wanna” jest w Potoku Surowicznym** - ciepła woda zależna od pogody (czyt. latem bywa ciepła) - nie wolno myć się przy studni!
 * w chałupie **nie ma lodówki** (z racji braku prądu), a jedzenie trzymamy podwieszone - **zdarzają się myszy**, które potrafią przegryźć plecak
 
 warunki kuchenne
