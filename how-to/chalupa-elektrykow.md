@@ -101,5 +101,5 @@ wyposażenie do chałupy
 * ubranie na każdą porę - nocą piec jest wygaszany
 * instrumenty muzyczne, śpiewniki… i wszystko inne potrzebne człowiekowi do życia.
 
-* najbliższy sklep jest w miejscowości Posada Jaśliska - około 1h pieszo
+* najbliższy sklep jest w miejscowości Posada Jaśliska - około 1h pieszo - warto mieć trochę zapasów ze sobą :)
 
