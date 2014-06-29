@@ -19,7 +19,9 @@ możliwość dojazdu w okolice
 ---------------------------
 
 * autostop - do dowolnego punktu
-* własny transport - zalecany dojazd do Woli Niżnej i zaparkowanie na parkingu przy szlaku kurierskim JAGA-KORA
+* własny transport
+	* zalecany dojazd do Woli Niżnej i zaparkowanie na parkingu przy szlaku kurierskim JAGA-KORA
+	* osoby lubiące łamać zakazy wjazdu i płacić mandaty mają do dyspozycji parking poza płotek (tylko za zgodą bacy) - po deszczu lub zimą może być jednak problem z wyjazdem
 * transport zbiorowy
 	* bezpośredni [neobus](http://neobus.pl) z Warszawy do Rymanowa Zdroju - rezerwacja jest konieczna
 	* opcja z przesiadkami - zazwyczaj w Krośnie - [rozkład jazdy PKS](http://www.e-podroznik.pl/)
