@@ -80,7 +80,7 @@ warunki kuchenne
 ----------------
 
 * do dyspozycji jest kuchnia zlokalizowana w kuchni (logiczne)
-* poprzez kuchnię rozumie się „palniki” oraz piekarnik
+* poprzez kuchnię rozumie się „palniki” oraz piekarnik - w kuchni pali się drewnem (które z kolei trzeba wcześniej pociąć i porąbać…), a rozpalanie nie jest takie banalne jak się wydaje!
 * zalecane jest korzystanie z chałupowych naczyń oraz sztućców o ile baca nie postanowi inaczej (np z powodu bardzo dużej ilości gości i braku naczyń)
 * poprzez naczynia rozumie się garnki, patelnie, talerze, miski i wszystko inne w rozmiarze zależnym od potrzeb kucharza
 * po przygotowaniu posiłku należy swoje naczynia zabrać z kuchni, aby nie przeszkadzały innym gotującym
