@@ -1,11 +1,6 @@
 Chałupa Elektryków
 ==================
 
-wersje
-------
-
-* 21/06/2014 00:27 - wersja wstępna
-
 podstawowe informacje
 ---------------------
 
