@@ -1,6 +1,8 @@
 Chałupa Elektryków
 ==================
 
+jest to moja prywatna instrukcja obsługi Chałupy Elektryków dla osób, które nie wiedzą za bardzo o co chodzi. nie jest to nic oficjalnego, więc nie może stanowić dowodów w dyskusji z bacą, który to ma władzę absolutną. :-)
+
 podstawowe informacje
 ---------------------
 
@@ -61,7 +63,7 @@ ważne warunki pobytu
 * **nie ma prądu :-)** (wifi też nie ma - było o to dużo pytań)
 * **nocleg jest darmowy**, wymagana jest jednak pomoc przy pracach na rzecz chałupy - miło jeśli zostawisz datek w skarbonce - utrzymanie takiej chaty też kosztuje
 * obowiązuje całkowity **zakaz spożywania alkoholu** w środku chałupy (na zewnątrz można)
-	* osoby w stanie zagrażającym bezpieczeństwu chałupy (czyt. strasznie najebane) mogą zostać wyrzucone, ale to trzeba naprawdę się postarać…
+	* osoby w stanie zagrażającym bezpieczeństwu chałupy lub innych osób (czyt. strasznie najebane lub w inny sposób niebezpieczne dla otoczenia) mogą zostać wyrzucone, ale to trzeba naprawdę się postarać…
 * obowiązuje całkowity **zakaz palenia ognia** poza wyznaczonymi miejscami
 * **nie ma ciszy nocnej** - gdy jest ciemno spotykamy się przy gitarach, gardłach i innych instrumentach
 * większe grupy należy zgłosić wcześniej u bacy
