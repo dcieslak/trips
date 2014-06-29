@@ -79,6 +79,9 @@ warunki kuchenne
 * brudne naczynia zanosimy na zmywak i myjemy je :-)
 * pamiętajmy o innych - warto gotować razem, aby możliwie krótko zajmować kuchnię. do tego zawsze na kuchni powinien być ogólnodostępny wrzątek!
 
+* naczynia, które wcześniej stały na piecu, mogą zostać postawione na stole czy ławie tylko na specjalnej podstawce (o to jak wygląda ta podstawka pytaj innych lub bacę)
+* jedzenie pozostawione bez opieki w kuchni czy saloonie przechodzi na stan chałupy.
+
 wyposażenie do chałupy
 ----------------------
 
