@@ -27,7 +27,7 @@ wyjazd
 
 * wyjazd:
 	* odjazd: 25/10/2014, 10:39
-	* **zbiórka** 25/10/2014 10:20 na peronie dworca Warszawa Śródmieście (na wysokości kas)
+	* **zbiórka** 25/10/2014 10:20 na peronie dworca Warszawa Śródmieście, kierunek wschodni (na wysokości kas)
 	* transport: Koleje Mazowieckie
 	* koniec: tajemnica!
 	* **bilety każdy kupuje samodzielnie** - wkrótce informacja o stacji końcowej (do końca tygodnia roboczego)
